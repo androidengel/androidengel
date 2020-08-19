@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there, I'm Andrew 👋
+
+I've been coding as a hobby since 2016, trying out several different languages and frameworks, but after 2 years, I decided to double down on full stack JavaScript development. Now I'm navigating my way through web dev tech with a focus on React, Node, Express and variations of SQL and NoSQL databases. I'm a life-long learner and excited to both soak up and give back as much knowledge as I can.
 
 <!--
 **androidengel/androidengel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
